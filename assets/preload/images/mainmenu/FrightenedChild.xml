@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FrightenedChild.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFidleMenu0000" x="5" y="5" width="760" height="867" frameX="0" frameY="0" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0001" x="765" y="5" width="758" height="869" frameX="-2" frameY="-2" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0002" x="1523" y="5" width="756" height="870" frameX="-4" frameY="-4" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0003" x="2279" y="5" width="754" height="872" frameX="-5" frameY="-5" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0004" x="3033" y="5" width="752" height="872" frameX="-7" frameY="-7" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0005" x="3785" y="5" width="751" height="873" frameX="-8" frameY="-8" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0006" x="4536" y="5" width="750" height="873" frameX="-9" frameY="-9" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0007" x="5286" y="5" width="750" height="874" frameX="-9" frameY="-9" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0008" x="6036" y="5" width="749" height="874" frameX="-10" frameY="-10" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0009" x="6785" y="5" width="749" height="875" frameX="-10" frameY="-10" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0010" x="5" y="880" width="748" height="876" frameX="-11" frameY="-10" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0011" x="753" y="880" width="748" height="875" frameX="-11" frameY="-11" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0012" x="1501" y="880" width="747" height="875" frameX="-11" frameY="-11" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0013" x="2248" y="880" width="747" height="875" frameX="-11" frameY="-11" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0014" x="2995" y="880" width="747" height="875" frameX="-11" frameY="-11" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0015" x="3742" y="880" width="747" height="875" frameX="-11" frameY="-11" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0016" x="4489" y="880" width="750" height="874" frameX="-9" frameY="-9" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0017" x="5239" y="880" width="752" height="872" frameX="-7" frameY="-7" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0018" x="5991" y="880" width="755" height="872" frameX="-5" frameY="-5" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0019" x="6746" y="880" width="756" height="870" frameX="-4" frameY="-4" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0020" x="5" y="1756" width="757" height="870" frameX="-3" frameY="-3" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0021" x="762" y="1756" width="758" height="869" frameX="-2" frameY="-2" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0022" x="1520" y="1756" width="758" height="869" frameX="-2" frameY="-1" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0023" x="2278" y="1756" width="759" height="868" frameX="-1" frameY="-1" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0024" x="3037" y="1756" width="759" height="867" frameX="-1" frameY="-1" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0025" x="3796" y="1756" width="760" height="868" frameX="0" frameY="0" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0026" x="4556" y="1756" width="760" height="868" frameX="0" frameY="0" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0027" x="5316" y="1756" width="760" height="867" frameX="0" frameY="0" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0028" x="6076" y="1756" width="760" height="867" frameX="0" frameY="0" frameWidth="760" frameHeight="886"/>
+	<SubTexture name="BFidleMenu0029" x="6836" y="1756" width="760" height="867" frameX="0" frameY="0" frameWidth="760" frameHeight="886"/>
+</TextureAtlas>

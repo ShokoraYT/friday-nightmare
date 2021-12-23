@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OptionsOption.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="optionsIdle0000" x="0" y="0" width="431" height="124"/>
+	<SubTexture name="optionsButtonHOVER0000" x="431" y="0" width="431" height="125"/>
+	<SubTexture name="optionsConfirm0000" x="0" y="125" width="435" height="130"/>
+	<SubTexture name="optionsConfirm0001" x="435" y="125" width="435" height="130"/>
+	<SubTexture name="optionsConfirm0002" x="0" y="255" width="435" height="130"/>
+	<SubTexture name="optionsConfirm0003" x="435" y="255" width="435" height="130"/>
+	<SubTexture name="optionsConfirm0004" x="0" y="385" width="435" height="130"/>
+</TextureAtlas>

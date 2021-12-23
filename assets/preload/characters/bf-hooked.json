@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				650
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Dead BF Death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				650
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Dead BF Retry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-110,
+				650
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "Dead BF Brain Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Actual_IRL_Death",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				401,
+				401
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "OogieDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				490
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "OogieUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				340
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "OogieIDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OogieBoogie",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "oogie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		240,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

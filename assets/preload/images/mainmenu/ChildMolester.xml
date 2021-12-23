@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ChildMolester.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="OogieSilhouette0000" x="13" y="13" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0001" x="588" y="13" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0002" x="1163" y="13" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0003" x="1738" y="13" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0004" x="2313" y="13" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0005" x="2888" y="13" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0006" x="3463" y="13" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0007" x="4038" y="13" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0008" x="4613" y="13" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0009" x="5188" y="13" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0010" x="5763" y="13" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0011" x="6338" y="13" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0012" x="6913" y="13" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0013" x="7488" y="13" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0014" x="13" y="573" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0015" x="588" y="573" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0016" x="1163" y="573" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0017" x="1738" y="573" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0018" x="2313" y="573" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0019" x="2888" y="573" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0020" x="3463" y="573" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0021" x="4038" y="573" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0022" x="4613" y="573" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0023" x="5188" y="573" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0024" x="5763" y="573" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0025" x="6338" y="573" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0026" x="6913" y="573" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0027" x="7488" y="573" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0028" x="13" y="1133" width="575" height="560"/>
+	<SubTexture name="OogieSilhouette0029" x="588" y="1133" width="575" height="560"/>
+	<SubTexture name="OogieStoryPrompt0000" x="1163" y="1133" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0001" x="2201" y="1133" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0002" x="3239" y="1133" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0003" x="4277" y="1133" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0004" x="5315" y="1133" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0005" x="6353" y="1133" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0006" x="13" y="1843" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0007" x="1051" y="1843" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0008" x="2089" y="1843" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0009" x="3127" y="1843" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0010" x="4165" y="1843" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0011" x="5203" y="1843" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0012" x="6241" y="1843" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0013" x="13" y="2553" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0014" x="1051" y="2553" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0015" x="2089" y="2553" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0016" x="3127" y="2553" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0017" x="4165" y="2553" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0018" x="5203" y="2553" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0019" x="6241" y="2553" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0020" x="13" y="3263" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0021" x="1051" y="3263" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0022" x="2089" y="3263" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0023" x="3127" y="3263" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0024" x="4165" y="3263" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0025" x="5203" y="3263" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0026" x="6241" y="3263" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0027" x="13" y="3973" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0028" x="1051" y="3973" width="1038" height="710"/>
+	<SubTexture name="OogieStoryPrompt0029" x="2089" y="3973" width="1038" height="710"/>
+</TextureAtlas>

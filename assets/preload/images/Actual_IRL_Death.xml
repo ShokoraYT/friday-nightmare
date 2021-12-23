@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dead BF.png"><SubTexture name="Dead BF Brain Idle0000" x="0" y="0" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Brain Idle0001" x="2004" y="0" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Brain Idle0002" x="4008" y="0" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Brain Idle0003" x="6012" y="0" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Brain Idle0004" x="8016" y="0" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Brain Idle0005" x="10020" y="0" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Brain Idle0006" x="12024" y="0" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0000" x="14028" y="0" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF idle0000" x="0" y="1504" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0001" x="2004" y="1504" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0002" x="4008" y="1504" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0003" x="6012" y="1504" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0004" x="8016" y="1504" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0005" x="10020" y="1504" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0006" x="12024" y="1504" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0007" x="14028" y="1504" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0008" x="0" y="3008" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0009" x="2004" y="3008" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0010" x="4008" y="3008" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0011" x="6012" y="3008" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0012" x="8016" y="3008" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0013" x="10020" y="3008" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0014" x="12024" y="3008" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0015" x="14028" y="3008" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0016" x="0" y="4512" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0017" x="2004" y="4512" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0018" x="4008" y="4512" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0019" x="6012" y="4512" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0020" x="8016" y="4512" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0021" x="10020" y="4512" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0022" x="12024" y="4512" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0023" x="14028" y="4512" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0024" x="0" y="6016" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0025" x="2004" y="6016" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0026" x="4008" y="6016" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0027" x="6012" y="6016" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0028" x="8016" y="6016" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Death0029" x="10020" y="6016" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0000" x="12024" y="6016" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0001" x="14028" y="6016" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0002" x="0" y="7520" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0003" x="2004" y="7520" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0004" x="4008" y="7520" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0005" x="6012" y="7520" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0006" x="8016" y="7520" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0007" x="10020" y="7520" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0008" x="12024" y="7520" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0009" x="14028" y="7520" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0010" x="0" y="9024" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0011" x="2004" y="9024" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0012" x="4008" y="9024" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0013" x="6012" y="9024" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0014" x="8016" y="9024" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0015" x="10020" y="9024" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0016" x="12024" y="9024" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0017" x="14028" y="9024" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0018" x="0" y="10528" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0019" x="2004" y="10528" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0020" x="4008" y="10528" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0021" x="6012" y="10528" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0022" x="8016" y="10528" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0023" x="10020" y="10528" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0024" x="12024" y="10528" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0025" x="14028" y="10528" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0026" x="0" y="12032" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0027" x="2004" y="12032" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0028" x="4008" y="12032" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0029" x="6012" y="12032" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0030" x="8016" y="12032" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+<SubTexture name="Dead BF Retry0031" x="10020" y="12032" width="2004" height="1504" frameX="0" frameY="0" frameWidth="2004" frameHeight="1504" />
+</TextureAtlas>

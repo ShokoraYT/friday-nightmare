@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="story_modeOption.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="story_modeIdle0000" x="0" y="0" width="321" height="128"/>
+	<SubTexture name="story_modeButtonHOVER0000" x="321" y="0" width="320" height="128"/>
+	<SubTexture name="story_modeConfirm0000" x="643" y="0" width="324" height="130"/>
+	<SubTexture name="story_modeConfirm0001" x="0" y="130" width="324" height="130"/>
+	<SubTexture name="story_modeConfirm0002" x="324" y="130" width="324" height="130"/>
+	<SubTexture name="story_modeConfirm0003" x="648" y="130" width="324" height="130"/>
+	<SubTexture name="story_modeConfirm0004" x="0" y="260" width="324" height="130"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CreditsOption.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="creditsIdle0000" x="0" y="0" width="447" height="126"/>
+	<SubTexture name="creditsButtonHOVER0000" x="447" y="0" width="447" height="127"/>
+	<SubTexture name="creditsConfirm0000" x="0" y="127" width="450" height="130"/>
+	<SubTexture name="creditsConfirm0001" x="450" y="127" width="450" height="130"/>
+	<SubTexture name="creditsConfirm0002" x="0" y="257" width="450" height="130"/>
+	<SubTexture name="creditsConfirm0003" x="450" y="257" width="450" height="130"/>
+	<SubTexture name="creditsConfirm0004" x="0" y="387" width="450" height="130"/>
+</TextureAtlas>
