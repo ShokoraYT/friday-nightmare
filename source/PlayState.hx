@@ -471,10 +471,10 @@ class PlayState extends MusicBeatState
 						floor.active = false;
 						add(floor);
 
-                        add(gf);
-                        add(boyfriend);
-                        add(dad);
-
+                        add(gfGroup);
+						add(boyfriendGroup);
+						add(dadGroup);
+						
 						var frontSpikes:FlxSprite = new FlxSprite(-980, -500).loadGraphic(Paths.image('OogieBG/oogiebg_frontspikes'));
 						frontSpikes.setGraphicSize(Std.int(frontSpikes.width * 1.3));
 						frontSpikes.updateHitbox();
