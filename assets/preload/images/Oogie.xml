@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Oogie.png"><SubTexture name="Oogie bop0000" x="0" y="0" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0001" x="0" y="0" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0002" x="814" y="0" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0003" x="814" y="0" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0004" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0005" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0006" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0007" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0008" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0009" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0010" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0011" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0012" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0013" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0014" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0015" x="0" y="0" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0016" x="0" y="0" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0017" x="814" y="0" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0018" x="814" y="0" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0019" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0020" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0021" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0022" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0023" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0024" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0025" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0026" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0027" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0028" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Oogie bop0029" x="0" y="795" width="814" height="795" frameX="-436" frameY="-621" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

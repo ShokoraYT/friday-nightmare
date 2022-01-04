@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MoonHazeBG.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MoonSprite0000" x="0" y="0" width="1920" height="1080" pivotX="0" pivotY="0"/>
+	<SubTexture name="MoonSprite0001" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0002" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0003" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0004" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0005" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0006" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0007" x="5760" y="1080" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0008" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0009" x="1920" y="2160" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0010" x="3840" y="2160" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0011" x="5760" y="2160" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0012" x="0" y="3240" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0013" x="1920" y="3240" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0014" x="3840" y="3240" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0015" x="5760" y="3240" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0016" x="0" y="4320" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0017" x="1920" y="4320" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0018" x="3840" y="4320" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0019" x="5760" y="4320" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0020" x="0" y="5400" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0021" x="1920" y="5400" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0022" x="3840" y="5400" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0023" x="5760" y="5400" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0024" x="0" y="6480" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0025" x="1920" y="6480" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0026" x="3840" y="6480" width="1920" height="1080"/>
+	<SubTexture name="MoonSprite0027" x="5760" y="6480" width="1920" height="1080"/>
+</TextureAtlas>

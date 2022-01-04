@@ -90,7 +90,7 @@ class Character extends FlxSprite
 		var library:String = null;
 		switch (curCharacter)
 		{
-			//case 'your character name in case you want to hardcode him instead':
+			//don't mind this, i switched to a character json for convenience
 			case 'bf-fuck': 
 			var tex = Paths.getSparrowAtlas('Actual_IRL_Death');
 				frames = tex;

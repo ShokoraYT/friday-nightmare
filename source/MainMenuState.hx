@@ -36,7 +36,10 @@ class MainMenuState extends MusicBeatState
 
 	var magenta:FlxSprite;
 	var camFollow:FlxObject;
+	var oogie:FlxSprite;
+	var grabby:FlxSprite;
 	var camFollowPos:FlxObject;
+	var curDifficulty:Int = 2;
 
 	override function create()
 	{
@@ -67,8 +70,8 @@ class MainMenuState extends MusicBeatState
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
 		//add(bg);
 
-        var oogie:FlxSprite = new FlxSprite(-40, -40);
-		oogie.frames = Paths.getSparrowAtlas('mainmenu/ChildMolester');
+        oogie = new FlxSprite(-40, -40);
+		oogie.frames = Paths.getSparrowAtlas('mainmenu/SpookyGuy');
 		oogie.animation.addByPrefix('idle', 'OogieSilhouette', 24);
 		oogie.animation.addByPrefix('confirm', 'OogieStoryPrompt', 24);
 		oogie.animation.play('idle');
@@ -78,8 +81,19 @@ class MainMenuState extends MusicBeatState
 		oogie.antialiasing = ClientPrefs.globalAntialiasing;
 		add(oogie);
 
+        grabby = new FlxSprite(-125, -78);
+		grabby.frames = Paths.getSparrowAtlas('mainmenu/SpookyGuy');
+		grabby.animation.addByPrefix('idle', 'OogieSilhouette', 24);
+		grabby.animation.addByPrefix('confirm', 'OogieStoryPrompt', 24);
+		grabby.animation.play('confirm');
+		grabby.updateHitbox();
+		grabby.setGraphicSize(Std.int(grabby.width * 0.7));
+		grabby.scrollFactor.set(0, 0);
+		grabby.antialiasing = ClientPrefs.globalAntialiasing;
+		//add(grabby);
+
 		var cutie:FlxSprite = new FlxSprite(235, 60);
-		// i expect spooky bf fanart, i love him
+		// i expect spooky bf fanart and/or r34, i love him
 		cutie.frames = Paths.getSparrowAtlas('mainmenu/FrightenedChild');
 		cutie.animation.addByPrefix('idle', 'BFidleMenu', 24);
 		cutie.animation.play('idle');
@@ -235,7 +249,12 @@ class MainMenuState extends MusicBeatState
 						}
 						else
 						{
-							spr.animation.play('confirm');
+							if(optionShit[curSelected] == 'story_mode')
+							{
+		                   remove(oogie);
+						   add(grabby);
+						   FlxG.sound.play(Paths.sound('laugh'));
+						    }
 							FlxFlicker.flicker(spr, 1, 0.06, false, false, function(flick:FlxFlicker)
 							{
 								var daChoice:String = optionShit[curSelected];
@@ -243,7 +262,7 @@ class MainMenuState extends MusicBeatState
 								switch (daChoice)
 								{
 						            case 'story_mode':
-										MusicBeatState.switchState(new StoryMenuState());
+							            MusicBeatState.switchState(new StoryMenuState());
 									case 'freeplay':
 										MusicBeatState.switchState(new FreeplayState());
 									case 'awards':

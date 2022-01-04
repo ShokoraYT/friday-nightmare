@@ -192,16 +192,25 @@ class TitleState extends MusicBeatState
 		// bg.updateHitbox();
 		add(bg);
 
-        var bgpic:FlxSprite = new FlxSprite(0, -640);
-		bgpic.frames = Paths.getSparrowAtlas('Title');
-		bgpic.animation.addByPrefix('bump', 'Title thing', 24);
-		bgpic.animation.play('bump');
-		bgpic.scrollFactor.set(0, 0);
-		//bgpic.setGraphicSize(Std.int(bg.width * 1.175));
-		bgpic.updateHitbox();
-		//bgpic.screenCenter();
-		bgpic.antialiasing = ClientPrefs.globalAntialiasing;
-		add(bgpic);
+        var moon:FlxSprite = new FlxSprite(-50, -650);
+		moon.frames = Paths.getSparrowAtlas('Oogie');
+		moon.animation.addByPrefix('idle', 'Oogie bop', 24);
+		moon.animation.play('idle');
+		moon.scrollFactor.set(0, 0);
+		//moon.setGraphicSize(Std.int(bg.width * 1.1));
+		moon.updateHitbox();
+		moon.antialiasing = ClientPrefs.globalAntialiasing;
+		add(moon);
+
+        var bf:FlxSprite = new FlxSprite(-150, -650);
+		bf.frames = Paths.getSparrowAtlas('Hill');
+		bf.animation.addByPrefix('idle', 'Hill sex', 24);
+		bf.animation.play('idle');
+		bf.scrollFactor.set(0, 0);
+		//bf.setGraphicSize(Std.int(bg.width * 1.175));
+		bf.updateHitbox();
+		bf.antialiasing = ClientPrefs.globalAntialiasing;
+		add(bf);
 
 		logoBl = new FlxSprite(0, 20);
 		logoBl.frames = Paths.getSparrowAtlas('logoBumpin');
@@ -224,7 +233,7 @@ class TitleState extends MusicBeatState
 		gfDance.antialiasing = ClientPrefs.globalAntialiasing;
 		//add(gfDance);
 		gfDance.shader = swagShader.shader;
-		//add(logoBl);
+		add(logoBl);
 		//logoBl.shader = swagShader.shader;
 
 		titleText = new FlxSprite(100, FlxG.height * 0.8);

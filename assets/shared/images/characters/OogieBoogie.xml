@@ -1,47 +1,74 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="OogieBoogie.png">
-	<!-- Created with Adobe Animate version 21.0.5.40714 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="OogieDOWN0000" x="0" y="0" width="1411" height="1077" frameX="0" frameY="-27" frameWidth="1411" frameHeight="1104"/>
-	<SubTexture name="OogieDOWN0001" x="1411" y="0" width="1404" height="1101" frameX="-7" frameY="-3" frameWidth="1411" frameHeight="1104"/>
-	<SubTexture name="OogieDOWN0002" x="2815" y="0" width="1403" height="1104" frameX="-8" frameY="0" frameWidth="1411" frameHeight="1104"/>
-	<SubTexture name="OogieDOWN0003" x="4218" y="0" width="1402" height="1104" frameX="-8" frameY="0" frameWidth="1411" frameHeight="1104"/>
-	<SubTexture name="OogieDOWN0004" x="5620" y="0" width="1401" height="1104" frameX="-8" frameY="0" frameWidth="1411" frameHeight="1104"/>
-	<SubTexture name="OogieDOWN0005" x="0" y="1104" width="1401" height="1104" frameX="-8" frameY="0" frameWidth="1411" frameHeight="1104"/>
-	<SubTexture name="OogieDOWN0006" x="1401" y="1104" width="1401" height="1104" frameX="-8" frameY="0" frameWidth="1411" frameHeight="1104"/>
-	<SubTexture name="OogieDOWN0007" x="2802" y="1104" width="1401" height="1104" frameX="-8" frameY="0" frameWidth="1411" frameHeight="1104"/>
-	<SubTexture name="OogieDOWN0008" x="2802" y="1104" width="1401" height="1104" frameX="-8" frameY="0" frameWidth="1411" frameHeight="1104"/>
-	<SubTexture name="OogieDOWN0009" x="2802" y="1104" width="1401" height="1104" frameX="-8" frameY="0" frameWidth="1411" frameHeight="1104"/>
-	<SubTexture name="OogieDOWN0010" x="2802" y="1104" width="1401" height="1104" frameX="-8" frameY="0" frameWidth="1411" frameHeight="1104"/>
-	<SubTexture name="OogieDOWN0011" x="2802" y="1104" width="1401" height="1104" frameX="-8" frameY="0" frameWidth="1411" frameHeight="1104"/>
-	<SubTexture name="OogieDOWN0012" x="2802" y="1104" width="1401" height="1104" frameX="-8" frameY="0" frameWidth="1411" frameHeight="1104"/>
-	<SubTexture name="OogieDOWN0013" x="2802" y="1104" width="1401" height="1104" frameX="-8" frameY="0" frameWidth="1411" frameHeight="1104"/>
-	<SubTexture name="OogieIDLE0000" x="4203" y="1104" width="1093" height="1011" frameX="0" frameY="-35" frameWidth="1093" frameHeight="1046"/>
-	<SubTexture name="OogieIDLE0001" x="5296" y="1104" width="1093" height="1006" frameX="0" frameY="-40" frameWidth="1093" frameHeight="1046"/>
-	<SubTexture name="OogieIDLE0002" x="6389" y="1104" width="1092" height="1017" frameX="-1" frameY="-29" frameWidth="1093" frameHeight="1046"/>
-	<SubTexture name="OogieIDLE0003" x="0" y="2208" width="1092" height="1026" frameX="-1" frameY="-20" frameWidth="1093" frameHeight="1046"/>
-	<SubTexture name="OogieIDLE0004" x="1092" y="2208" width="1092" height="1034" frameX="-1" frameY="-12" frameWidth="1093" frameHeight="1046"/>
-	<SubTexture name="OogieIDLE0005" x="2184" y="2208" width="1091" height="1040" frameX="-2" frameY="-6" frameWidth="1093" frameHeight="1046"/>
-	<SubTexture name="OogieIDLE0006" x="3275" y="2208" width="1091" height="1044" frameX="-2" frameY="-2" frameWidth="1093" frameHeight="1046"/>
-	<SubTexture name="OogieIDLE0007" x="4366" y="2208" width="1091" height="1045" frameX="-2" frameY="-1" frameWidth="1093" frameHeight="1046"/>
-	<SubTexture name="OogieIDLE0008" x="5457" y="2208" width="1091" height="1046" frameX="-2" frameY="0" frameWidth="1093" frameHeight="1046"/>
-	<SubTexture name="OogieIDLE0009" x="6548" y="2208" width="1092" height="1046" frameX="-1" frameY="0" frameWidth="1093" frameHeight="1046"/>
-	<SubTexture name="OogieIDLE0010" x="0" y="3254" width="1092" height="1046" frameX="-1" frameY="0" frameWidth="1093" frameHeight="1046"/>
-	<SubTexture name="OogieIDLE0011" x="1092" y="3254" width="1092" height="1046" frameX="-1" frameY="0" frameWidth="1093" frameHeight="1046"/>
-	<SubTexture name="OogieIDLE0012" x="2184" y="3254" width="1092" height="1046" frameX="-1" frameY="0" frameWidth="1093" frameHeight="1046"/>
-	<SubTexture name="OogieIDLE0013" x="3276" y="3254" width="1092" height="1046" frameX="-1" frameY="0" frameWidth="1093" frameHeight="1046"/>
-	<SubTexture name="OogieUP0000" x="4368" y="3254" width="1163" height="1193" frameX="0" frameY="0" frameWidth="1166" frameHeight="1193"/>
-	<SubTexture name="OogieUP0001" x="5531" y="3254" width="1165" height="1192" frameX="0" frameY="-1" frameWidth="1166" frameHeight="1193"/>
-	<SubTexture name="OogieUP0002" x="6696" y="3254" width="1166" height="1191" frameX="0" frameY="-2" frameWidth="1166" frameHeight="1193"/>
-	<SubTexture name="OogieUP0003" x="0" y="4447" width="1165" height="1191" frameX="-1" frameY="-2" frameWidth="1166" frameHeight="1193"/>
-	<SubTexture name="OogieUP0004" x="1165" y="4447" width="1165" height="1191" frameX="-1" frameY="-2" frameWidth="1166" frameHeight="1193"/>
-	<SubTexture name="OogieUP0005" x="2330" y="4447" width="1165" height="1190" frameX="-1" frameY="-3" frameWidth="1166" frameHeight="1193"/>
-	<SubTexture name="OogieUP0006" x="3495" y="4447" width="1165" height="1190" frameX="-1" frameY="-3" frameWidth="1166" frameHeight="1193"/>
-	<SubTexture name="OogieUP0007" x="4660" y="4447" width="1165" height="1190" frameX="-1" frameY="-3" frameWidth="1166" frameHeight="1193"/>
-	<SubTexture name="OogieUP0008" x="2330" y="4447" width="1165" height="1190" frameX="-1" frameY="-3" frameWidth="1166" frameHeight="1193"/>
-	<SubTexture name="OogieUP0009" x="3495" y="4447" width="1165" height="1190" frameX="-1" frameY="-3" frameWidth="1166" frameHeight="1193"/>
-	<SubTexture name="OogieUP0010" x="4660" y="4447" width="1165" height="1190" frameX="-1" frameY="-3" frameWidth="1166" frameHeight="1193"/>
-	<SubTexture name="OogieUP0011" x="2330" y="4447" width="1165" height="1190" frameX="-1" frameY="-3" frameWidth="1166" frameHeight="1193"/>
-	<SubTexture name="OogieUP0012" x="3495" y="4447" width="1165" height="1190" frameX="-1" frameY="-3" frameWidth="1166" frameHeight="1193"/>
-	<SubTexture name="OogieUP0013" x="4660" y="4447" width="1165" height="1190" frameX="-1" frameY="-3" frameWidth="1166" frameHeight="1193"/>
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Oogie.png"><SubTexture name="Oogie Down0000" x="2802" y="6935" width="1408" height="1079" frameX="0" frameY="-27" frameWidth="1408" frameHeight="1106" />
+<SubTexture name="Oogie Down0001" x="1400" y="6935" width="1402" height="1102" frameX="-6" frameY="-3" frameWidth="1408" frameHeight="1106" />
+<SubTexture name="Oogie Down0002" x="2798" y="5829" width="1401" height="1105" frameX="-7" frameY="0" frameWidth="1408" frameHeight="1106" />
+<SubTexture name="Oogie Down0003" x="4199" y="5829" width="1399" height="1105" frameX="-7" frameY="0" frameWidth="1408" frameHeight="1106" />
+<SubTexture name="Oogie Down0004" x="6945" y="0" width="1399" height="1105" frameX="-7" frameY="0" frameWidth="1408" frameHeight="1106" />
+<SubTexture name="Oogie Down0005" x="2287" y="4703" width="1399" height="1106" frameX="-7" frameY="0" frameWidth="1408" frameHeight="1106" />
+<SubTexture name="Oogie Down0006" x="3686" y="4703" width="1399" height="1106" frameX="-7" frameY="0" frameWidth="1408" frameHeight="1106" />
+<SubTexture name="Oogie Down0007" x="5085" y="4703" width="1400" height="1106" frameX="-7" frameY="0" frameWidth="1408" frameHeight="1106" />
+<SubTexture name="Oogie Down0008" x="0" y="5829" width="1399" height="1106" frameX="-7" frameY="0" frameWidth="1408" frameHeight="1106" />
+<SubTexture name="Oogie Down0009" x="1399" y="5829" width="1399" height="1106" frameX="-7" frameY="0" frameWidth="1408" frameHeight="1106" />
+<SubTexture name="Oogie Down0010" x="6945" y="1105" width="1399" height="1105" frameX="-7" frameY="0" frameWidth="1408" frameHeight="1106" />
+<SubTexture name="Oogie Down0011" x="6945" y="2210" width="1399" height="1105" frameX="-7" frameY="0" frameWidth="1408" frameHeight="1106" />
+<SubTexture name="Oogie Down0012" x="0" y="6935" width="1400" height="1105" frameX="-7" frameY="0" frameWidth="1408" frameHeight="1106" />
+<SubTexture name="Oogie Down0013" x="6945" y="3315" width="1399" height="1105" frameX="-7" frameY="0" frameWidth="1408" frameHeight="1106" />
+<SubTexture name="Oogie Idle0000" x="1267" y="9088" width="1102" height="1007" frameX="0" frameY="-48" frameWidth="1113" frameHeight="1055" />
+<SubTexture name="Oogie Idle0001" x="3648" y="9088" width="1110" height="1003" frameX="0" frameY="-52" frameWidth="1113" frameHeight="1055" />
+<SubTexture name="Oogie Idle0002" x="3205" y="8040" width="1083" height="1018" frameX="0" frameY="-37" frameWidth="1113" frameHeight="1055" />
+<SubTexture name="Oogie Idle0003" x="2124" y="8040" width="1081" height="1031" frameX="0" frameY="-24" frameWidth="1113" frameHeight="1055" />
+<SubTexture name="Oogie Idle0004" x="1054" y="8040" width="1070" height="1041" frameX="0" frameY="-14" frameWidth="1113" frameHeight="1055" />
+<SubTexture name="Oogie Idle0005" x="0" y="8040" width="1054" height="1048" frameX="0" frameY="-7" frameWidth="1113" frameHeight="1055" />
+<SubTexture name="Oogie Idle0006" x="8344" y="0" width="1047" height="1052" frameX="0" frameY="-3" frameWidth="1113" frameHeight="1055" />
+<SubTexture name="Oogie Idle0007" x="6945" y="4420" width="1046" height="1055" frameX="0" frameY="0" frameWidth="1113" frameHeight="1055" />
+<SubTexture name="Oogie Idle0008" x="6945" y="5475" width="1044" height="1055" frameX="-1" frameY="0" frameWidth="1113" frameHeight="1055" />
+<SubTexture name="Oogie Idle0009" x="5818" y="3381" width="1044" height="1055" frameX="-1" frameY="0" frameWidth="1113" frameHeight="1055" />
+<SubTexture name="Oogie Idle0010" x="5598" y="5829" width="1045" height="1055" frameX="-1" frameY="0" frameWidth="1113" frameHeight="1055" />
+<SubTexture name="Oogie Idle0011" x="4210" y="6935" width="1044" height="1055" frameX="-1" frameY="0" frameWidth="1113" frameHeight="1055" />
+<SubTexture name="Oogie Idle0012" x="5254" y="6935" width="1045" height="1055" frameX="-1" frameY="0" frameWidth="1113" frameHeight="1055" />
+<SubTexture name="Oogie Idle0013" x="6299" y="6935" width="1044" height="1055" frameX="-1" frameY="0" frameWidth="1113" frameHeight="1055" />
+<SubTexture name="Oogie Left0000" x="1137" y="4703" width="1150" height="1123" frameX="0" frameY="-4" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Left0001" x="0" y="4703" width="1137" height="1126" frameX="-20" frameY="-1" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Left0002" x="4652" y="2382" width="1130" height="1128" frameX="-31" frameY="0" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Left0003" x="2331" y="1192" width="1128" height="1128" frameX="-35" frameY="0" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Left0004" x="3498" y="2384" width="1126" height="1128" frameX="-36" frameY="0" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Left0005" x="0" y="3575" width="1127" height="1128" frameX="-36" frameY="0" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Left0006" x="1127" y="3575" width="1126" height="1128" frameX="-36" frameY="0" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Left0007" x="2253" y="3575" width="1126" height="1128" frameX="-36" frameY="0" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Left0008" x="3379" y="3575" width="1126" height="1128" frameX="-36" frameY="0" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Left0009" x="4505" y="3575" width="1126" height="1127" frameX="-36" frameY="0" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Left0010" x="5818" y="0" width="1127" height="1127" frameX="-36" frameY="0" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Left0011" x="5818" y="1127" width="1126" height="1127" frameX="-36" frameY="0" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Left0012" x="5818" y="1127" width="1126" height="1127" frameX="0" frameY="0" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Left0013" x="5818" y="2254" width="1127" height="1127" frameX="-36" frameY="0" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Left0014" x="5818" y="1127" width="1126" height="1127" frameX="0" frameY="0" frameWidth="1163" frameHeight="1128" />
+<SubTexture name="Oogie Right0000" x="4758" y="9088" width="1300" height="989" frameX="-9" frameY="-26" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Right0001" x="2369" y="9088" width="1279" height="1004" frameX="-3" frameY="-11" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Right0002" x="0" y="9088" width="1267" height="1012" frameX="0" frameY="-3" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Right0003" x="4288" y="8040" width="1262" height="1015" frameX="0" frameY="0" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Right0004" x="5550" y="8040" width="1262" height="1015" frameX="0" frameY="0" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Right0005" x="6812" y="8040" width="1261" height="1015" frameX="0" frameY="0" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Right0006" x="8073" y="8040" width="1261" height="1015" frameX="0" frameY="0" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Right0007" x="9391" y="0" width="1262" height="1015" frameX="0" frameY="0" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Right0008" x="9391" y="1015" width="1261" height="1015" frameX="0" frameY="0" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Right0009" x="9391" y="2030" width="1261" height="1015" frameX="0" frameY="0" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Right0010" x="9391" y="3045" width="1262" height="1015" frameX="0" frameY="0" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Right0011" x="9391" y="4060" width="1261" height="1015" frameX="0" frameY="0" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Right0012" x="9391" y="5075" width="1261" height="1015" frameX="0" frameY="0" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Right0013" x="9391" y="6090" width="1262" height="1015" frameX="0" frameY="0" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Right0014" x="9391" y="7105" width="1261" height="1015" frameX="0" frameY="0" frameWidth="1332" frameHeight="1015" />
+<SubTexture name="Oogie Up0000" x="0" y="0" width="1156" height="1192" frameX="-7" frameY="0" frameWidth="1166" frameHeight="1193" />
+<SubTexture name="Oogie Up0001" x="1156" y="0" width="1165" height="1192" frameX="0" frameY="0" frameWidth="1166" frameHeight="1193" />
+<SubTexture name="Oogie Up0002" x="2321" y="0" width="1165" height="1192" frameX="0" frameY="-1" frameWidth="1166" frameHeight="1193" />
+<SubTexture name="Oogie Up0003" x="0" y="1192" width="1165" height="1192" frameX="0" frameY="-1" frameWidth="1166" frameHeight="1193" />
+<SubTexture name="Oogie Up0004" x="1165" y="1192" width="1166" height="1192" frameX="0" frameY="-1" frameWidth="1166" frameHeight="1193" />
+<SubTexture name="Oogie Up0005" x="3486" y="0" width="1166" height="1191" frameX="0" frameY="-2" frameWidth="1166" frameHeight="1193" />
+<SubTexture name="Oogie Up0006" x="3486" y="1191" width="1166" height="1191" frameX="0" frameY="-2" frameWidth="1166" frameHeight="1193" />
+<SubTexture name="Oogie Up0007" x="0" y="2384" width="1166" height="1191" frameX="0" frameY="-2" frameWidth="1166" frameHeight="1193" />
+<SubTexture name="Oogie Up0008" x="1166" y="2384" width="1166" height="1191" frameX="0" frameY="-2" frameWidth="1166" frameHeight="1193" />
+<SubTexture name="Oogie Up0009" x="2332" y="2384" width="1166" height="1191" frameX="0" frameY="-2" frameWidth="1166" frameHeight="1193" />
+<SubTexture name="Oogie Up0010" x="4652" y="0" width="1166" height="1191" frameX="0" frameY="-2" frameWidth="1166" frameHeight="1193" />
+<SubTexture name="Oogie Up0011" x="4652" y="0" width="1166" height="1191" frameX="0" frameY="0" frameWidth="1166" frameHeight="1193" />
+<SubTexture name="Oogie Up0012" x="4652" y="1191" width="1166" height="1191" frameX="0" frameY="-2" frameWidth="1166" frameHeight="1193" />
+<SubTexture name="Oogie Up0013" x="4652" y="1191" width="1166" height="1191" frameX="0" frameY="0" frameWidth="1166" frameHeight="1193" />
 </TextureAtlas>

@@ -398,7 +398,6 @@ class PlayState extends MusicBeatState
 				//GameOverSubstate.loopSoundName = 'gameOver-pixel';
 				//GameOverSubstate.endSoundName = 'gameOverEnd-pixel';
 				GameOverSubstate.characterName = 'bf-hooked';
-				//CoolUtil.precache('Actual_IRL_Death');
 				
 			defaultCamZoom = 0.5;
 				var bg:BGSprite = new BGSprite('stageback', -600, -200);
@@ -410,6 +409,7 @@ class PlayState extends MusicBeatState
 				add(stageFront);
 				
 				var deathFix = new FlxSprite(-650, 600);
+				//awesome, it actually worked
 				deathFix.setGraphicSize(Std.int(stageFront.width * 1.1));
 				deathFix.frames = Paths.getSparrowAtlas('Actual_IRL_Death');
 				deathFix.updateHitbox();
@@ -432,6 +432,57 @@ class PlayState extends MusicBeatState
 					stageCurtains.updateHitbox();
 					add(stageCurtains);
 				}
+
+             case 'oogie': //OOGIE STAGE CODE BECAUSE IDK LUA
+                GameOverSubstate.deathSoundName = 'hook_death';
+				GameOverSubstate.characterName = 'bf-hooked';
+				GameOverSubstate.loopSoundName = 'gameOver';
+				GameOverSubstate.endSoundName = 'gameOverEnd';
+			defaultCamZoom = 0.4;
+				
+				var deathFix = new FlxSprite(0, 0);
+				//yo pog, it actually worked
+				deathFix.setGraphicSize(Std.int(deathFix.width * 1.1));
+				deathFix.frames = Paths.getSparrowAtlas('Actual_IRL_Death');
+				deathFix.updateHitbox();
+                deathFix.alpha = 0;
+				add(deathFix);
+
+                        var bg:FlxSprite = new FlxSprite(-980, -500).loadGraphic(Paths.image('OogieBG/oogiebg_back_v1'));
+						bg.antialiasing = true;
+						bg.scrollFactor.set(1, 1);
+						bg.setGraphicSize(Std.int(bg.width * 1.3));
+						bg.active = false;
+						add(bg);
+	
+						var backSpikes:FlxSprite = new FlxSprite(-980, -500).loadGraphic(Paths.image('OogieBG/oogiebg_backspikes'));
+						backSpikes.setGraphicSize(Std.int(backSpikes.width * 1.3));
+						backSpikes.updateHitbox();
+						backSpikes.antialiasing = true;
+						backSpikes.scrollFactor.set(1, 1);
+						backSpikes.active = false;
+						add(backSpikes);
+	
+						var floor:FlxSprite = new FlxSprite(-980, -500).loadGraphic(Paths.image('OogieBG/oogiebg_mid'));
+						floor.setGraphicSize(Std.int(floor.width * 1.3));
+						floor.updateHitbox();
+						floor.antialiasing = true;
+						floor.scrollFactor.set(1, 1);
+						floor.active = false;
+						add(floor);
+
+                        add(gf);
+                        add(boyfriend);
+                        add(dad);
+
+						var frontSpikes:FlxSprite = new FlxSprite(-980, -500).loadGraphic(Paths.image('OogieBG/oogiebg_frontspikes'));
+						frontSpikes.setGraphicSize(Std.int(frontSpikes.width * 1.3));
+						frontSpikes.updateHitbox();
+						frontSpikes.antialiasing = true;
+						frontSpikes.scrollFactor.set(0.75, 1);
+						frontSpikes.active = false;
+						add(frontSpikes);
+
 
 			case 'spooky': //Week 2
 				if(!ClientPrefs.lowQuality) {
@@ -756,6 +807,8 @@ class PlayState extends MusicBeatState
 			{
 				case 'limo':
 					gfVersion = 'gf-car';
+				case 'oogie':
+					gfVersion = 'kids';
 				case 'mall' | 'mallEvil':
 					gfVersion = 'gf-christmas';
 				case 'school' | 'schoolEvil':
@@ -3218,38 +3271,39 @@ class PlayState extends MusicBeatState
 			}
 
 			if (isStoryMode)
+			{
+				campaignScore += songScore;
+				campaignMisses += songMisses;
+
+				storyPlaylist.remove(storyPlaylist[0]);
+
+				if (storyPlaylist.length <= 0)
 				{
-					campaignScore += songScore;
-					campaignMisses += songMisses;
-	
-					storyPlaylist.remove(storyPlaylist[0]);
-	
-					if (storyPlaylist.length <= 0)
-					{
-						FlxG.sound.playMusic(Paths.music('freakyMenu'));
-	
-						transIn = FlxTransitionableState.defaultTransIn;
-						transOut = FlxTransitionableState.defaultTransOut;
-						
-						FlxG.switchState(new EndingState());
-	
-						// if ()
-						if(!usedPractice) {
-							StoryMenuState.weekCompleted.set(WeekData.weeksList[storyWeek], true);
-	
-							if (SONG.validScore)
-							{
-								Highscore.saveWeekScore(WeekData.getWeekFileName(), campaignScore, storyDifficulty);
-							}
-	
-							FlxG.save.data.weekCompleted = StoryMenuState.weekCompleted;
-							FlxG.save.flush();
-							FlxG.switchState(new EndingState());
-						}
-						usedPractice = false;
-						changedDifficulty = false;
-						cpuControlled = false;
+					FlxG.sound.playMusic(Paths.music('freakyMenu'));
+
+					cancelFadeTween();
+					CustomFadeTransition.nextCamera = camOther;
+					if(FlxTransitionableState.skipNextTransIn) {
+						CustomFadeTransition.nextCamera = null;
 					}
+					MusicBeatState.switchState(new StoryMenuState());
+
+					// if ()
+					if(!usedPractice) {
+						StoryMenuState.weekCompleted.set(WeekData.weeksList[storyWeek], true);
+
+						if (SONG.validScore)
+						{
+							Highscore.saveWeekScore(WeekData.getWeekFileName(), campaignScore, storyDifficulty);
+						}
+
+						FlxG.save.data.weekCompleted = StoryMenuState.weekCompleted;
+						FlxG.save.flush();
+					}
+					usedPractice = false;
+					changedDifficulty = false;
+					cpuControlled = false;
+				}
 				else
 				{
 					var difficulty:String = '' + CoolUtil.difficultyStuff[storyDifficulty][1];

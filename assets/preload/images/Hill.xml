@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Hill.png"><SubTexture name="Hill sex0000" x="759" y="604" width="759" height="596" frameX="-695" frameY="-805" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0001" x="0" y="604" width="759" height="599" frameX="-695" frameY="-802" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0002" x="0" y="0" width="759" height="604" frameX="-695" frameY="-797" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0003" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0004" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0005" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0006" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0007" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0008" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0009" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0010" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0011" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0012" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0013" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0014" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0015" x="759" y="604" width="759" height="596" frameX="-695" frameY="-805" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0016" x="0" y="604" width="759" height="599" frameX="-695" frameY="-802" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0017" x="0" y="0" width="759" height="604" frameX="-695" frameY="-797" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0018" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0019" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0020" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0021" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0022" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0023" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0024" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0025" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0026" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0027" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0028" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Hill sex0029" x="759" y="0" width="759" height="603" frameX="-695" frameY="-798" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>
