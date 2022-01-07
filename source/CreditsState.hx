@@ -62,7 +62,7 @@ class CreditsState extends MusicBeatState
 		
 		#end
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
-		['FRiday Nightmare Team'],
+		['Friday Nightmare Team'],
 		['Atanon', 'atanon', 'Sprites & Music', 'https://twitter.com/TheAtanon', '0xFFFFB300'],
 		['Shokora', 'shokora', 'Coding', 'https://twitter.com/PlayWarioLand4', '0xFFE600FF'],
 		['Jester', 'jester', 'Art & Charting', 'https://discord.gg/gWJEM3F', '0xFFE3E7ED'],
