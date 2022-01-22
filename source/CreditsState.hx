@@ -68,6 +68,7 @@ class CreditsState extends MusicBeatState
 		['Jester', 'jester', 'Art & Charting', 'https://discord.gg/gWJEM3F', '0xFFE3E7ED'],
 		['Moreno', 'moreno', 'Coding Help', 'https://en.wikipedia.org/wiki/Trollface', '0xFFFF9E10'],
 		['tiredAilurophile', 'skiploom', 'Background Artist', '', '0xFF69D52A'],
+		['Biro', 'biro', 'Mac Compiler', 'https://www.youtube.com/channel/UCkDhHejKkl40_S1Mb5RzMBg', '0xFFFFDD33'],
 		[''],
 		['Special Thanks'],
 		['Banbuds', 'banbuds', 'Original Idea & Character Design', 'https://twitter.com/Banbuds/status/1461178488686358536?s=20', '0xFFAC7FAD'],

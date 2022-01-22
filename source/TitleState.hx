@@ -498,6 +498,7 @@ class TitleState extends MusicBeatState
 					addMoreText('Jester', 45);
 					addMoreText('Moreno', 45);
 					addMoreText('TiredAilurophile', 45);
+					addMoreText('Biro', 45);
 					logoSpr.visible = false;
 				// credTextShit.text += '\nNewgrounds';
 				case 8:

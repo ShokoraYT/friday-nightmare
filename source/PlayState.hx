@@ -2828,7 +2828,7 @@ class PlayState extends MusicBeatState
 					dad = new Character(0, 0, 'gf'); 
 					add(dad);
 				case 2:
-				triggerEventNote('FlipUI', '', '');
+				callOnLuas('onEvent', ['FlipUI', '', '']);
 						
 		}
 			case 'Set P1 Mania': 
